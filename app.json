@@ -4,6 +4,10 @@
     "slug": "campuspilot",
     "version": "1.0.0",
     "orientation": "portrait",
+     "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
     "userInterfaceStyle": "light",
     "splash": {
       "backgroundColor": "#F5F7FB"
